@@ -4,6 +4,7 @@ public class Rectangle {
     private int length;
     private int width;
 
+
     // constructor to create a Rectangle object with a particular width and length
     public Rectangle(int length, int width) {
         this.length = length;
